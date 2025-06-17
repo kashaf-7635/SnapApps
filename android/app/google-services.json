@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "777511809711",
+    "firebase_url": "https://react-native-practice-4d665-default-rtdb.firebaseio.com",
+    "project_id": "react-native-practice-4d665",
+    "storage_bucket": "react-native-practice-4d665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777511809711:android:ce2b699710b4bed69a5a5a",
+        "android_client_info": {
+          "package_name": "com.snapapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKnwPAkVipJGutZ4C8h_XY5kMq6Xvsb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

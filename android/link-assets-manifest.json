@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MontserratBold.ttf",
+      "sha1": "c7d907722af4fb845ab97d515bb414f29651f000"
+    },
+    {
+      "path": "src/assets/fonts/MontserratRegular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "src/assets/fonts/OpenSansBold.ttf",
+      "sha1": "953814da1b753763dfa5a7ecc18bdbb14890e16b"
+    },
+    {
+      "path": "src/assets/fonts/OpenSansRegular.ttf",
+      "sha1": "76ea5d4c70539ad9b0e7faf7e4fbe3bae8a961c7"
+    },
+    {
+      "path": "src/assets/fonts/PoppinsBold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/PoppinsRegular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/SansationBold.ttf",
+      "sha1": "fd940394e7d78ee62f32937c5e6bd7ea6147f111"
+    },
+    {
+      "path": "src/assets/fonts/SansationRegular.ttf",
+      "sha1": "826d6a718477ebedc2721669c91c3161a92fa169"
+    }
+  ]
+}
