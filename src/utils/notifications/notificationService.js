@@ -76,6 +76,7 @@ class PushNotificationService {
       const {title, body} = remoteMessage.notification || {};
       if (title && body) {
         this.showLocalNotification(title, body);
+        
       }
     });
   }

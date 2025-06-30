@@ -1,4 +1,4 @@
-import {enablePromise, openDatabase} from 'react-native-sqlite-storage';
+import { enablePromise, openDatabase } from 'react-native-sqlite-storage';
 import Place from '../../models/places';
 
 const tableName = 'places';
@@ -12,7 +12,7 @@ export const getDBConnection = async () => {
     return dbInstance;
   }
 
-  dbInstance = await openDatabase({name: 'places.db', location: 'default'});
+  dbInstance = await openDatabase({ name: 'places.db', location: 'default' });
   return dbInstance;
 };
 

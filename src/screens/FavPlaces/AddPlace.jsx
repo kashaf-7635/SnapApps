@@ -5,7 +5,6 @@ import {insertPlace} from '../../utils/database/places-db';
 import {useRequest} from '../../hooks/useRequest';
 import LoadingOverlay from '../../components/FavPlaces/LoadingOverlay';
 
-
 const AddPlace = ({navigation}) => {
   const {isLoading, requestHandler} = useRequest();
   const addPlaceHandler = async place => {
